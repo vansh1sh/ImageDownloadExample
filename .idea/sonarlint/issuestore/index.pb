@@ -1,0 +1,21 @@
+
+X
+(app/src/main/res/layout/alert_layout.xml,5/3/5390331f26365b9a796d836bb9aeeab9dd8f29a4
+Y
+)app/src/main/res/layout/activity_main.xml,7/6/76b07e40f24cce093536731477540f12e7da3cb6
+R
+"app/src/main/res/values/colors.xml,9/6/969faa2a5d9f5e8390e958d2c07f2cfd54676e6b
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+X
+(app/src/main/res/drawable-v24/shadow.xml,b/6/b6f965231431d2c69a3507893832574e96e2db53
+T
+$app/src/main/res/drawable-v24/bg.xml,0/a/0afd51a8bf5e27cc8937dc10544d8d3d6065d28c
+S
+#app/src/main/res/values/strings.xml,d/2/d2281fbb3027de2722081a53408dd77628bf080e
+Y
+)app/src/main/res/drawable-v24/btngrad.xml,0/0/00d5f4d6bbbbcc2c8cf9629483c1a1ae708601cd
+X
+(app/src/main/res/drawable-v24/bggrad.xml,f/e/fec3e580abf8e80fa39fd9ad747cb63e02ac188b
+f
+6app/src/main/java/com/vansh/lesson11/MainActivity.java,8/c/8ce80f39a20c4fdbd914eea94bc5154d391ab559

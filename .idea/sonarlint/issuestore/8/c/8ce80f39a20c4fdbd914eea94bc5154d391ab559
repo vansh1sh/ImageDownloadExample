@@ -1,0 +1,13 @@
+
+Msquid:S1197"8Move the array designator from the variable to the type.(²ÙÜœ
+;squid:S1075"&Remove this hard-coded path-delimiter.(•¼Ó²
+hsquid:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ø—óÕúÿÿÿÿ
+fsquid:S2095"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(®ÍØÐ
+6squid:S1170"!Make this final field static too.(É¬”Á
+;squid:S1170"!Make this final field static too.(ÂÞÂÌøÿÿÿÿ
+Bsquid:S1185"(Remove this method to simply inherit it.(Œÿµºøÿÿÿÿ
+hsquid:S00116"RRename this field "MAX_INT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¬”Á
+osquid:S00116"TRename this field "FILE_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÞÂÌøÿÿÿÿ
+psquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ë¦§¯
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¦¥Ðüÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
